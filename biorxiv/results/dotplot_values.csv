@@ -1,0 +1,467 @@
+dataset,cell_type,gene,mean_expr,z,pct_detected,n_cells
+hlca,AT0,SLC34A2,0.001,2.8693,82.8914,1169
+hlca,AT0,SFTPC,0.0078,0.2197,84.9444,1169
+hlca,AT0,ABCA3,0.0,0.4215,18.8195,1169
+hlca,AT0,LAMP3,0.0001,0.2488,26.9461,1169
+hlca,AT0,EPCAM,0.0003,1.7661,63.2164,1169
+hlca,AT0,MUC1,0.0008,3.4608,85.201,1169
+hlca,AT1,SLC34A2,0.0009,2.563,64.4582,7411
+hlca,AT1,SFTPC,0.0028,-0.0591,65.8481,7411
+hlca,AT1,ABCA3,0.0001,1.8466,20.3616,7411
+hlca,AT1,LAMP3,0.0,-0.132,4.5878,7411
+hlca,AT1,EPCAM,0.0006,4.2076,59.803,7411
+hlca,AT1,MUC1,0.0005,2.0129,48.0907,7411
+hlca,AT2,SLC34A2,0.0016,4.7656,97.223,60424
+hlca,AT2,SFTPC,0.1226,6.6069,99.4621,60424
+hlca,AT2,ABCA3,0.0004,6.2443,77.8019,60424
+hlca,AT2,LAMP3,0.0005,2.827,83.9071,60424
+hlca,AT2,EPCAM,0.0002,1.1136,66.0052,60424
+hlca,AT2,MUC1,0.0009,3.7376,93.8965,60424
+hlca,Adventitial fibroblasts,SLC34A2,0.0,-0.3899,3.7273,9739
+hlca,Adventitial fibroblasts,SFTPC,0.0004,-0.1897,32.1286,9739
+hlca,Adventitial fibroblasts,ABCA3,0.0,-0.2465,3.7684,9739
+hlca,Adventitial fibroblasts,LAMP3,0.0,-0.2521,1.2938,9739
+hlca,Adventitial fibroblasts,EPCAM,0.0,-0.4804,0.6058,9739
+hlca,Adventitial fibroblasts,MUC1,0.0,-0.4413,6.9617,9739
+hlca,Alveolar Mph CCL3+,SLC34A2,0.0,-0.3974,6.3546,5917
+hlca,Alveolar Mph CCL3+,SFTPC,0.0002,-0.2036,61.1459,5917
+hlca,Alveolar Mph CCL3+,ABCA3,0.0,-0.2606,4.6983,5917
+hlca,Alveolar Mph CCL3+,LAMP3,0.0,-0.2485,2.6703,5917
+hlca,Alveolar Mph CCL3+,EPCAM,0.0,-0.4893,0.6422,5917
+hlca,Alveolar Mph CCL3+,MUC1,0.0,-0.4634,7.2841,5917
+hlca,Alveolar Mph MT-positive,SLC34A2,0.0,-0.332,9.3567,1197
+hlca,Alveolar Mph MT-positive,SFTPC,0.0004,-0.1901,73.0159,1197
+hlca,Alveolar Mph MT-positive,ABCA3,0.0,-0.212,3.2581,1197
+hlca,Alveolar Mph MT-positive,LAMP3,0.0,-0.2235,3.1746,1197
+hlca,Alveolar Mph MT-positive,EPCAM,0.0,-0.4641,1.5038,1197
+hlca,Alveolar Mph MT-positive,MUC1,0.0,-0.3886,9.1896,1197
+hlca,Alveolar Mph proliferating,SLC34A2,0.0,-0.3871,7.1358,1009
+hlca,Alveolar Mph proliferating,SFTPC,0.0004,-0.1897,59.9604,1009
+hlca,Alveolar Mph proliferating,ABCA3,0.0,-0.2696,4.559,1009
+hlca,Alveolar Mph proliferating,LAMP3,0.0,-0.2414,3.9643,1009
+hlca,Alveolar Mph proliferating,EPCAM,0.0,-0.476,2.8741,1009
+hlca,Alveolar Mph proliferating,MUC1,0.0,-0.4464,9.3162,1009
+hlca,Alveolar fibroblasts,SLC34A2,0.0,-0.3847,2.6673,4349
+hlca,Alveolar fibroblasts,SFTPC,0.0004,-0.1897,35.3185,4349
+hlca,Alveolar fibroblasts,ABCA3,0.0,-0.2668,1.5176,4349
+hlca,Alveolar fibroblasts,LAMP3,0.0,-0.2505,1.1727,4349
+hlca,Alveolar fibroblasts,EPCAM,0.0,-0.4651,0.8738,4349
+hlca,Alveolar fibroblasts,MUC1,0.0,-0.4456,3.61,4349
+hlca,Alveolar macrophages,SLC34A2,0.0,-0.3905,4.5979,65291
+hlca,Alveolar macrophages,SFTPC,0.0005,-0.187,54.7671,65291
+hlca,Alveolar macrophages,ABCA3,0.0,-0.2759,2.884,65291
+hlca,Alveolar macrophages,LAMP3,0.0,-0.2423,2.0355,65291
+hlca,Alveolar macrophages,EPCAM,0.0,-0.4804,1.0124,65291
+hlca,Alveolar macrophages,MUC1,0.0,-0.4577,4.9333,65291
+hlca,B cells,SLC34A2,0.0,-0.3934,2.0704,2415
+hlca,B cells,SFTPC,0.0004,-0.1884,43.8509,2415
+hlca,B cells,ABCA3,0.0,-0.266,1.1594,2415
+hlca,B cells,LAMP3,0.0,-0.2469,0.6211,2415
+hlca,B cells,EPCAM,0.0,-0.482,0.3727,2415
+hlca,B cells,MUC1,0.0,-0.4687,1.5321,2415
+hlca,Basal resting,SLC34A2,0.0003,0.565,49.5495,222
+hlca,Basal resting,SFTPC,0.0009,-0.1606,78.3784,222
+hlca,Basal resting,ABCA3,0.0,-0.2807,2.2523,222
+hlca,Basal resting,LAMP3,0.0,-0.198,4.5045,222
+hlca,Basal resting,EPCAM,0.0002,1.2766,52.7027,222
+hlca,Basal resting,MUC1,0.0001,0.0039,28.8288,222
+hlca,CD4 T cells,SLC34A2,0.0,-0.3849,2.1399,15702
+hlca,CD4 T cells,SFTPC,0.0005,-0.1839,44.0262,15702
+hlca,CD4 T cells,ABCA3,0.0,-0.2624,0.8916,15702
+hlca,CD4 T cells,LAMP3,0.0,-0.2257,1.1655,15702
+hlca,CD4 T cells,EPCAM,0.0,-0.4785,0.3949,15702
+hlca,CD4 T cells,MUC1,0.0,-0.465,1.624,15702
+hlca,CD8 T cells,SLC34A2,0.0,-0.3791,2.2435,14932
+hlca,CD8 T cells,SFTPC,0.0005,-0.1864,44.7027,14932
+hlca,CD8 T cells,ABCA3,0.0,-0.235,1.1988,14932
+hlca,CD8 T cells,LAMP3,0.0,-0.2291,1.1586,14932
+hlca,CD8 T cells,EPCAM,0.0,-0.4704,0.5759,14932
+hlca,CD8 T cells,MUC1,0.0,-0.4683,1.4064,14932
+hlca,Classical monocytes,SLC34A2,0.0,-0.3745,3.999,15454
+hlca,Classical monocytes,SFTPC,0.0008,-0.1703,50.7183,15454
+hlca,Classical monocytes,ABCA3,0.0,-0.2544,1.5918,15454
+hlca,Classical monocytes,LAMP3,0.0,-0.2292,1.7989,15454
+hlca,Classical monocytes,EPCAM,0.0,-0.478,0.5112,15454
+hlca,Classical monocytes,MUC1,0.0,-0.4324,4.4584,15454
+hlca,Club (non-nasal),SLC34A2,0.0001,-0.0757,27.6574,969
+hlca,Club (non-nasal),SFTPC,0.0023,-0.0831,58.1011,969
+hlca,Club (non-nasal),ABCA3,0.0,-0.2468,3.1992,969
+hlca,Club (non-nasal),LAMP3,0.0,-0.2306,2.7864,969
+hlca,Club (non-nasal),EPCAM,0.0001,0.5018,38.3901,969
+hlca,Club (non-nasal),MUC1,0.0002,0.6225,51.9092,969
+hlca,DC1,SLC34A2,0.0,-0.3604,7.6305,249
+hlca,DC1,SFTPC,0.0011,-0.1534,60.6426,249
+hlca,DC1,ABCA3,0.0,-0.2097,4.0161,249
+hlca,DC1,LAMP3,0.0,-0.1786,8.0321,249
+hlca,DC1,EPCAM,0.0,-0.4391,5.6225,249
+hlca,DC1,MUC1,0.0,-0.4576,4.8193,249
+hlca,DC2,SLC34A2,0.0,-0.3786,6.0644,5623
+hlca,DC2,SFTPC,0.0008,-0.1676,60.217,5623
+hlca,DC2,ABCA3,0.0,-0.2348,3.6813,5623
+hlca,DC2,LAMP3,0.0,-0.1111,8.6964,5623
+hlca,DC2,EPCAM,0.0,-0.4703,1.3516,5623
+hlca,DC2,MUC1,0.0,-0.4422,6.2067,5623
+hlca,Deuterosomal,SLC34A2,0.0001,-0.0883,30.7317,205
+hlca,Deuterosomal,SFTPC,0.0023,-0.0828,60.9756,205
+hlca,Deuterosomal,ABCA3,0.0,-0.1994,3.9024,205
+hlca,Deuterosomal,LAMP3,0.0,-0.1957,5.8537,205
+hlca,Deuterosomal,EPCAM,0.0003,2.0124,69.2683,205
+hlca,Deuterosomal,MUC1,0.0003,0.9731,64.3902,205
+hlca,EC aerocyte capillary,SLC34A2,0.0,-0.3905,1.3773,5881
+hlca,EC aerocyte capillary,SFTPC,0.0004,-0.1927,29.4678,5881
+hlca,EC aerocyte capillary,ABCA3,0.0,-0.2083,1.6494,5881
+hlca,EC aerocyte capillary,LAMP3,0.0,-0.2578,0.204,5881
+hlca,EC aerocyte capillary,EPCAM,0.0,-0.4733,0.3061,5881
+hlca,EC aerocyte capillary,MUC1,0.0,-0.4638,1.1053,5881
+hlca,EC arterial,SLC34A2,0.0,-0.3735,2.6362,6866
+hlca,EC arterial,SFTPC,0.0009,-0.164,47.961,6866
+hlca,EC arterial,ABCA3,0.0,-0.173,2.7818,6866
+hlca,EC arterial,LAMP3,0.0,-0.2363,1.2234,6866
+hlca,EC arterial,EPCAM,0.0,-0.4742,0.7574,6866
+hlca,EC arterial,MUC1,0.0,-0.4353,3.0149,6866
+hlca,EC general capillary,SLC34A2,0.0,-0.383,1.3748,14329
+hlca,EC general capillary,SFTPC,0.0005,-0.1826,34.1685,14329
+hlca,EC general capillary,ABCA3,0.0,-0.1661,1.5284,14329
+hlca,EC general capillary,LAMP3,0.0,-0.2497,0.328,14329
+hlca,EC general capillary,EPCAM,0.0,-0.478,0.2303,14329
+hlca,EC general capillary,MUC1,0.0,-0.4601,1.1445,14329
+hlca,EC venous pulmonary,SLC34A2,0.0,-0.3437,3.568,6194
+hlca,EC venous pulmonary,SFTPC,0.0011,-0.1519,48.8053,6194
+hlca,EC venous pulmonary,ABCA3,0.0,-0.142,2.6639,6194
+hlca,EC venous pulmonary,LAMP3,0.0,-0.2308,1.4692,6194
+hlca,EC venous pulmonary,EPCAM,0.0,-0.4665,1.0817,6194
+hlca,EC venous pulmonary,MUC1,0.0,-0.3985,4.1815,6194
+hlca,EC venous systemic,SLC34A2,0.0,-0.3888,3.0886,1716
+hlca,EC venous systemic,SFTPC,0.0005,-0.186,55.1865,1716
+hlca,EC venous systemic,ABCA3,0.0,-0.1834,3.38,1716
+hlca,EC venous systemic,LAMP3,0.0,-0.2361,1.69,1716
+hlca,EC venous systemic,EPCAM,0.0,-0.4718,0.641,1716
+hlca,EC venous systemic,MUC1,0.0,-0.4567,3.4382,1716
+hlca,Goblet (nasal),SLC34A2,0.0004,0.9612,44.7368,114
+hlca,Goblet (nasal),SFTPC,0.0071,0.1817,67.5439,114
+hlca,Goblet (nasal),ABCA3,0.0,0.4799,12.2807,114
+hlca,Goblet (nasal),LAMP3,0.0001,0.2104,13.1579,114
+hlca,Goblet (nasal),EPCAM,0.0002,0.9777,35.9649,114
+hlca,Goblet (nasal),MUC1,0.0005,1.9497,56.1404,114
+hlca,Interstitial Mph perivascular,SLC34A2,0.0,-0.3871,2.9105,4604
+hlca,Interstitial Mph perivascular,SFTPC,0.0004,-0.1907,42.007,4604
+hlca,Interstitial Mph perivascular,ABCA3,0.0,-0.2639,2.1286,4604
+hlca,Interstitial Mph perivascular,LAMP3,0.0,-0.2369,1.5421,4604
+hlca,Interstitial Mph perivascular,EPCAM,0.0,-0.4823,0.5647,4604
+hlca,Interstitial Mph perivascular,MUC1,0.0,-0.4649,2.6281,4604
+hlca,Lymphatic EC differentiating,SLC34A2,0.0,-0.3925,1.0791,556
+hlca,Lymphatic EC differentiating,SFTPC,0.0003,-0.1978,14.2086,556
+hlca,Lymphatic EC differentiating,ABCA3,0.0,-0.0436,2.8777,556
+hlca,Lymphatic EC differentiating,LAMP3,0.0,-0.2586,0.1799,556
+hlca,Lymphatic EC differentiating,EPCAM,0.0,-0.4844,0.1799,556
+hlca,Lymphatic EC differentiating,MUC1,0.0,-0.4662,1.7986,556
+hlca,Lymphatic EC mature,SLC34A2,0.0,-0.3747,3.7331,3777
+hlca,Lymphatic EC mature,SFTPC,0.0007,-0.1757,51.9989,3777
+hlca,Lymphatic EC mature,ABCA3,0.0,-0.0549,5.1364,3777
+hlca,Lymphatic EC mature,LAMP3,0.0,-0.2379,1.668,3777
+hlca,Lymphatic EC mature,EPCAM,0.0,-0.4674,0.7943,3777
+hlca,Lymphatic EC mature,MUC1,0.0,-0.4393,3.5743,3777
+hlca,Mast cells,SLC34A2,0.0,-0.3713,2.5663,4754
+hlca,Mast cells,SFTPC,0.0005,-0.1848,43.2688,4754
+hlca,Mast cells,ABCA3,0.0,-0.1623,1.7669,4754
+hlca,Mast cells,LAMP3,0.0,-0.2225,1.2831,4754
+hlca,Mast cells,EPCAM,0.0,-0.4663,0.589,4754
+hlca,Mast cells,MUC1,0.0,-0.4402,2.3769,4754
+hlca,Mesothelium,SLC34A2,0.0,-0.2907,13.9738,229
+hlca,Mesothelium,SFTPC,0.0008,-0.171,58.0786,229
+hlca,Mesothelium,ABCA3,0.0,-0.1329,5.2402,229
+hlca,Mesothelium,LAMP3,0.0,-0.2353,4.3668,229
+hlca,Mesothelium,EPCAM,0.0,-0.4304,1.7467,229
+hlca,Mesothelium,MUC1,0.0,-0.2677,24.4541,229
+hlca,Migratory DCs,SLC34A2,0.0,-0.3774,8.209,268
+hlca,Migratory DCs,SFTPC,0.0007,-0.1767,56.7164,268
+hlca,Migratory DCs,ABCA3,0.0,-0.241,3.3582,268
+hlca,Migratory DCs,LAMP3,0.0009,5.8974,91.791,268
+hlca,Migratory DCs,EPCAM,0.0,-0.4824,0.7463,268
+hlca,Migratory DCs,MUC1,0.0,-0.4355,7.4627,268
+hlca,Monocyte-derived Mph,SLC34A2,0.0,-0.39,4.2868,26057
+hlca,Monocyte-derived Mph,SFTPC,0.0004,-0.1901,48.4937,26057
+hlca,Monocyte-derived Mph,ABCA3,0.0,-0.2761,2.0839,26057
+hlca,Monocyte-derived Mph,LAMP3,0.0,-0.2437,1.9304,26057
+hlca,Monocyte-derived Mph,EPCAM,0.0,-0.4808,0.8405,26057
+hlca,Monocyte-derived Mph,MUC1,0.0,-0.4559,4.2445,26057
+hlca,Multiciliated (non-nasal),SLC34A2,0.0004,0.8689,61.8762,10180
+hlca,Multiciliated (non-nasal),SFTPC,0.0048,0.0557,63.723,10180
+hlca,Multiciliated (non-nasal),ABCA3,0.0,0.0488,6.7485,10180
+hlca,Multiciliated (non-nasal),LAMP3,0.0,-0.0675,11.2967,10180
+hlca,Multiciliated (non-nasal),EPCAM,0.0003,2.2199,62.6621,10180
+hlca,Multiciliated (non-nasal),MUC1,0.0003,0.9208,56.611,10180
+hlca,Myofibroblasts,SLC34A2,0.0,-0.4007,1.8333,600
+hlca,Myofibroblasts,SFTPC,0.0004,-0.1932,34.0,600
+hlca,Myofibroblasts,ABCA3,0.0,-0.2742,1.6667,600
+hlca,Myofibroblasts,LAMP3,0.0,-0.2406,1.3333,600
+hlca,Myofibroblasts,EPCAM,0.0,-0.4809,0.6667,600
+hlca,Myofibroblasts,MUC1,0.0,-0.4634,1.6667,600
+hlca,NK cells,SLC34A2,0.0,-0.3837,1.8753,14878
+hlca,NK cells,SFTPC,0.0005,-0.1828,49.879,14878
+hlca,NK cells,ABCA3,0.0,-0.2337,1.1157,14878
+hlca,NK cells,LAMP3,0.0,-0.2336,0.9208,14878
+hlca,NK cells,EPCAM,0.0,-0.4749,0.41,14878
+hlca,NK cells,MUC1,0.0,-0.463,1.4316,14878
+hlca,Non-classical monocytes,SLC34A2,0.0,-0.3902,3.1967,8415
+hlca,Non-classical monocytes,SFTPC,0.0004,-0.1889,39.0612,8415
+hlca,Non-classical monocytes,ABCA3,0.0,-0.2874,1.2121,8415
+hlca,Non-classical monocytes,LAMP3,0.0,-0.2367,1.7469,8415
+hlca,Non-classical monocytes,EPCAM,0.0,-0.4849,0.4397,8415
+hlca,Non-classical monocytes,MUC1,0.0,-0.4621,2.5193,8415
+hlca,Peribronchial fibroblasts,SLC34A2,0.0,-0.3849,3.8194,288
+hlca,Peribronchial fibroblasts,SFTPC,0.0004,-0.1924,45.1389,288
+hlca,Peribronchial fibroblasts,ABCA3,0.0,-0.3035,1.7361,288
+hlca,Peribronchial fibroblasts,LAMP3,0.0,-0.2596,0.3472,288
+hlca,Peribronchial fibroblasts,EPCAM,0.0,-0.4759,1.7361,288
+hlca,Peribronchial fibroblasts,MUC1,0.0,-0.4309,6.5972,288
+hlca,Pericytes,SLC34A2,0.0,-0.3984,0.8452,2248
+hlca,Pericytes,SFTPC,0.0003,-0.1978,19.1281,2248
+hlca,Pericytes,ABCA3,0.0,-0.2518,0.8007,2248
+hlca,Pericytes,LAMP3,0.0,-0.2449,0.4004,2248
+hlca,Pericytes,EPCAM,0.0,-0.4729,0.3559,2248
+hlca,Pericytes,MUC1,0.0,-0.474,0.6673,2248
+hlca,Plasma cells,SLC34A2,0.0,-0.3699,5.7371,1255
+hlca,Plasma cells,SFTPC,0.0008,-0.1686,58.247,1255
+hlca,Plasma cells,ABCA3,0.0,-0.2752,2.6295,1255
+hlca,Plasma cells,LAMP3,0.0,-0.2013,4.3028,1255
+hlca,Plasma cells,EPCAM,0.0,-0.4633,1.4343,1255
+hlca,Plasma cells,MUC1,0.0,-0.4504,5.259,1255
+hlca,Plasmacytoid DCs,SLC34A2,0.0,-0.3955,1.7544,171
+hlca,Plasmacytoid DCs,SFTPC,0.0002,-0.2032,36.8421,171
+hlca,Plasmacytoid DCs,ABCA3,0.0,-0.3003,0.5848,171
+hlca,Plasmacytoid DCs,LAMP3,0.0,-0.2463,1.7544,171
+hlca,Plasmacytoid DCs,EPCAM,0.0,-0.4863,0.5848,171
+hlca,Plasmacytoid DCs,MUC1,0.0,-0.4432,2.924,171
+hlca,SM activated stress response,SLC34A2,0.0,-0.4067,2.8747,487
+hlca,SM activated stress response,SFTPC,0.0001,-0.2081,25.6674,487
+hlca,SM activated stress response,ABCA3,0.0,-0.2531,4.3121,487
+hlca,SM activated stress response,LAMP3,0.0,-0.257,1.232,487
+hlca,SM activated stress response,EPCAM,0.0,-0.4895,0.4107,487
+hlca,SM activated stress response,MUC1,0.0,-0.4504,7.1869,487
+hlca,Smooth muscle,SLC34A2,0.0,-0.3897,2.4239,1939
+hlca,Smooth muscle,SFTPC,0.0005,-0.1856,37.9577,1939
+hlca,Smooth muscle,ABCA3,0.0,-0.2531,1.6503,1939
+hlca,Smooth muscle,LAMP3,0.0,-0.2474,0.8252,1939
+hlca,Smooth muscle,EPCAM,0.0,-0.4548,0.5673,1939
+hlca,Smooth muscle,MUC1,0.0,-0.4636,2.7849,1939
+hlca,Subpleural fibroblasts,SLC34A2,0.0,-0.3786,13.0435,276
+hlca,Subpleural fibroblasts,SFTPC,0.0006,-0.1818,77.1739,276
+hlca,Subpleural fibroblasts,ABCA3,0.0,-0.2159,7.971,276
+hlca,Subpleural fibroblasts,LAMP3,0.0,-0.2408,5.0725,276
+hlca,Subpleural fibroblasts,EPCAM,0.0,-0.4744,0.7246,276
+hlca,Subpleural fibroblasts,MUC1,0.0,-0.4124,18.8406,276
+hlca,Suprabasal,SLC34A2,0.0003,0.5279,55.9701,402
+hlca,Suprabasal,SFTPC,0.002,-0.1003,56.9652,402
+hlca,Suprabasal,ABCA3,0.0,-0.176,3.4826,402
+hlca,Suprabasal,LAMP3,0.0,-0.2033,6.4677,402
+hlca,Suprabasal,EPCAM,0.0002,1.5304,65.1741,402
+hlca,Suprabasal,MUC1,0.0002,0.519,55.9701,402
+hlca,T cells proliferating,SLC34A2,0.0,-0.3924,3.25,400
+hlca,T cells proliferating,SFTPC,0.0005,-0.1866,66.25,400
+hlca,T cells proliferating,ABCA3,0.0,-0.2912,2.25,400
+hlca,T cells proliferating,LAMP3,0.0,-0.2504,1.5,400
+hlca,T cells proliferating,EPCAM,0.0,-0.4811,1.0,400
+hlca,T cells proliferating,MUC1,0.0,-0.4679,3.0,400
+hlca,pre-TB secretory,SLC34A2,0.0002,0.3493,53.5066,3964
+hlca,pre-TB secretory,SFTPC,0.0016,-0.1256,66.6751,3964
+hlca,pre-TB secretory,ABCA3,0.0,-0.1579,5.4995,3964
+hlca,pre-TB secretory,LAMP3,0.0,-0.1733,8.2492,3964
+hlca,pre-TB secretory,EPCAM,0.0002,0.9643,58.3502,3964
+hlca,pre-TB secretory,MUC1,0.0004,1.3423,73.6377,3964
+hurskainen_normoxia,AT1,Slc34a2,0.0002,-0.0126,12.7112,1243
+hurskainen_normoxia,AT1,Sftpc,0.0112,0.0265,93.4835,1243
+hurskainen_normoxia,AT1,Abca3,0.0001,0.2675,22.0434,1243
+hurskainen_normoxia,AT1,Lamp3,0.0,0.0448,7.6428,1243
+hurskainen_normoxia,AT1,Epcam,0.0004,2.6936,51.0056,1243
+hurskainen_normoxia,AT1,H2-Aa,0.0,-0.2709,6.436,1243
+hurskainen_normoxia,AT1,H2-Ab1,0.0,-0.2721,6.3556,1243
+hurskainen_normoxia,AT2,Slc34a2,0.0045,5.1911,99.8698,3073
+hurskainen_normoxia,AT2,Sftpc,0.2343,5.1907,100.0,3073
+hurskainen_normoxia,AT2,Abca3,0.0008,5.0843,96.3228,3073
+hurskainen_normoxia,AT2,Lamp3,0.0008,5.1889,96.2903,3073
+hurskainen_normoxia,AT2,Epcam,0.0003,2.4189,85.2587,3073
+hurskainen_normoxia,AT2,H2-Aa,0.0004,0.5854,70.8103,3073
+hurskainen_normoxia,AT2,H2-Ab1,0.0002,0.2259,57.1103,3073
+hurskainen_normoxia,Alv Mf,Slc34a2,0.0,-0.2076,11.9416,2261
+hurskainen_normoxia,Alv Mf,Sftpc,0.0013,-0.2027,97.5674,2261
+hurskainen_normoxia,Alv Mf,Abca3,0.0,-0.1899,23.0871,2261
+hurskainen_normoxia,Alv Mf,Lamp3,0.0,-0.201,4.0248,2261
+hurskainen_normoxia,Alv Mf,Epcam,0.0,-0.4032,5.1747,2261
+hurskainen_normoxia,Alv Mf,H2-Aa,0.0,-0.302,5.3958,2261
+hurskainen_normoxia,Alv Mf,H2-Ab1,0.0,-0.3049,4.9093,2261
+hurskainen_normoxia,Art,Slc34a2,0.0,-0.1883,14.2466,365
+hurskainen_normoxia,Art,Sftpc,0.0012,-0.2049,92.0548,365
+hurskainen_normoxia,Art,Abca3,0.0001,-0.0895,21.3699,365
+hurskainen_normoxia,Art,Lamp3,0.0,-0.19,3.2877,365
+hurskainen_normoxia,Art,Epcam,0.0,-0.4658,1.0959,365
+hurskainen_normoxia,Art,H2-Aa,0.0,-0.3265,3.2877,365
+hurskainen_normoxia,Art,H2-Ab1,0.0,-0.3241,3.2877,365
+hurskainen_normoxia,B cell 1,Slc34a2,0.0,-0.2061,5.3861,1541
+hurskainen_normoxia,B cell 1,Sftpc,0.0011,-0.207,87.0863,1541
+hurskainen_normoxia,B cell 1,Abca3,0.0,-0.2442,7.3978,1541
+hurskainen_normoxia,B cell 1,Lamp3,0.0,-0.2051,1.6223,1541
+hurskainen_normoxia,B cell 1,Epcam,0.0,-0.3677,3.8936,1541
+hurskainen_normoxia,B cell 1,H2-Aa,0.0017,3.7729,73.7833,1541
+hurskainen_normoxia,B cell 1,H2-Ab1,0.0014,3.5483,74.4322,1541
+hurskainen_normoxia,CD4 T cell 1,Slc34a2,0.0,-0.2003,7.212,1137
+hurskainen_normoxia,CD4 T cell 1,Sftpc,0.001,-0.2083,88.5664,1137
+hurskainen_normoxia,CD4 T cell 1,Abca3,0.0,-0.2285,8.1794,1137
+hurskainen_normoxia,CD4 T cell 1,Lamp3,0.0,-0.1987,1.759,1137
+hurskainen_normoxia,CD4 T cell 1,Epcam,0.0,-0.4043,2.1108,1137
+hurskainen_normoxia,CD4 T cell 1,H2-Aa,0.0,-0.2386,4.3975,1137
+hurskainen_normoxia,CD4 T cell 1,H2-Ab1,0.0,-0.2303,4.2216,1137
+hurskainen_normoxia,CD4 T cell 2,Slc34a2,0.0,-0.2117,8.5427,199
+hurskainen_normoxia,CD4 T cell 2,Sftpc,0.0008,-0.2137,94.4724,199
+hurskainen_normoxia,CD4 T cell 2,Abca3,0.0,-0.404,5.0251,199
+hurskainen_normoxia,CD4 T cell 2,Lamp3,0.0,-0.2401,2.5126,199
+hurskainen_normoxia,CD4 T cell 2,Epcam,0.0,-0.2385,10.5528,199
+hurskainen_normoxia,CD4 T cell 2,H2-Aa,0.0,-0.3001,5.0251,199
+hurskainen_normoxia,CD4 T cell 2,H2-Ab1,0.0,-0.3128,2.0101,199
+hurskainen_normoxia,CD8 T cell 1,Slc34a2,0.0,-0.2184,6.0811,444
+hurskainen_normoxia,CD8 T cell 1,Sftpc,0.0009,-0.2116,90.3153,444
+hurskainen_normoxia,CD8 T cell 1,Abca3,0.0,-0.3494,4.0541,444
+hurskainen_normoxia,CD8 T cell 1,Lamp3,0.0,-0.1941,2.4775,444
+hurskainen_normoxia,CD8 T cell 1,Epcam,0.0,-0.3771,4.0541,444
+hurskainen_normoxia,CD8 T cell 1,H2-Aa,0.0,-0.2832,4.0541,444
+hurskainen_normoxia,CD8 T cell 1,H2-Ab1,0.0,-0.2525,4.7297,444
+hurskainen_normoxia,Cap,Slc34a2,0.0,-0.2001,7.439,4342
+hurskainen_normoxia,Cap,Sftpc,0.0013,-0.2017,91.064,4342
+hurskainen_normoxia,Cap,Abca3,0.0001,-0.0921,13.45,4342
+hurskainen_normoxia,Cap,Lamp3,0.0,-0.2127,1.7273,4342
+hurskainen_normoxia,Cap,Epcam,0.0,-0.4306,1.52,4342
+hurskainen_normoxia,Cap,H2-Aa,0.0,-0.3218,2.7176,4342
+hurskainen_normoxia,Cap,H2-Ab1,0.0,-0.3007,3.6619,4342
+hurskainen_normoxia,Cap-a,Slc34a2,0.0,-0.185,9.7929,1787
+hurskainen_normoxia,Cap-a,Sftpc,0.0017,-0.1932,92.0537,1787
+hurskainen_normoxia,Cap-a,Abca3,0.0001,0.0614,18.9703,1787
+hurskainen_normoxia,Cap-a,Lamp3,0.0,-0.1752,2.5741,1787
+hurskainen_normoxia,Cap-a,Epcam,0.0,-0.4144,1.7907,1787
+hurskainen_normoxia,Cap-a,H2-Aa,0.0,-0.3124,3.1897,1787
+hurskainen_normoxia,Cap-a,H2-Ab1,0.0,-0.3107,2.9659,1787
+hurskainen_normoxia,Ciliated,Slc34a2,0.0001,-0.1608,26.4901,453
+hurskainen_normoxia,Ciliated,Sftpc,0.0027,-0.1695,96.9095,453
+hurskainen_normoxia,Ciliated,Abca3,0.0001,0.1106,52.0971,453
+hurskainen_normoxia,Ciliated,Lamp3,0.0,-0.1363,9.9338,453
+hurskainen_normoxia,Ciliated,Epcam,0.0004,2.7495,86.0927,453
+hurskainen_normoxia,Ciliated,H2-Aa,0.0,-0.2391,23.3996,453
+hurskainen_normoxia,Ciliated,H2-Ab1,0.0,-0.2282,20.7506,453
+hurskainen_normoxia,Club,Slc34a2,0.0001,-0.0775,37.3832,214
+hurskainen_normoxia,Club,Sftpc,0.0046,-0.1256,97.6636,214
+hurskainen_normoxia,Club,Abca3,0.0001,0.3349,76.6355,214
+hurskainen_normoxia,Club,Lamp3,0.0,-0.1305,13.0841,214
+hurskainen_normoxia,Club,Epcam,0.0003,1.8125,92.5234,214
+hurskainen_normoxia,Club,H2-Aa,0.0,-0.3123,10.7477,214
+hurskainen_normoxia,Club,H2-Ab1,0.0,-0.3097,8.8785,214
+hurskainen_normoxia,Col13a1+ fibroblast,Slc34a2,0.0,-0.2075,9.7182,5536
+hurskainen_normoxia,Col13a1+ fibroblast,Sftpc,0.0012,-0.2035,95.0145,5536
+hurskainen_normoxia,Col13a1+ fibroblast,Abca3,0.0,-0.4143,2.4928,5536
+hurskainen_normoxia,Col13a1+ fibroblast,Lamp3,0.0,-0.2136,1.9328,5536
+hurskainen_normoxia,Col13a1+ fibroblast,Epcam,0.0,-0.4295,1.8967,5536
+hurskainen_normoxia,Col13a1+ fibroblast,H2-Aa,0.0,-0.3343,2.4928,5536
+hurskainen_normoxia,Col13a1+ fibroblast,H2-Ab1,0.0,-0.3183,2.5108,5536
+hurskainen_normoxia,Col14a1+ fibroblast,Slc34a2,0.0,-0.217,7.9875,1277
+hurskainen_normoxia,Col14a1+ fibroblast,Sftpc,0.0009,-0.2119,95.0666,1277
+hurskainen_normoxia,Col14a1+ fibroblast,Abca3,0.0,-0.3698,7.8309,1277
+hurskainen_normoxia,Col14a1+ fibroblast,Lamp3,0.0,-0.2235,2.2709,1277
+hurskainen_normoxia,Col14a1+ fibroblast,Epcam,0.0,-0.4618,0.9397,1277
+hurskainen_normoxia,Col14a1+ fibroblast,H2-Aa,0.0,-0.3315,3.289,1277
+hurskainen_normoxia,Col14a1+ fibroblast,H2-Ab1,0.0,-0.3123,3.8371,1277
+hurskainen_normoxia,ILC2,Slc34a2,0.0,-0.2285,2.7523,109
+hurskainen_normoxia,ILC2,Sftpc,0.0008,-0.214,90.8257,109
+hurskainen_normoxia,ILC2,Abca3,0.0,-0.324,8.2569,109
+hurskainen_normoxia,ILC2,Lamp3,0.0,-0.219,2.7523,109
+hurskainen_normoxia,ILC2,Epcam,0.0,-0.0993,16.5138,109
+hurskainen_normoxia,ILC2,H2-Aa,0.0,-0.2988,5.5046,109
+hurskainen_normoxia,ILC2,H2-Ab1,0.0,-0.2492,4.5872,109
+hurskainen_normoxia,Int Mf,Slc34a2,0.0,-0.201,11.7128,794
+hurskainen_normoxia,Int Mf,Sftpc,0.0011,-0.2061,94.7103,794
+hurskainen_normoxia,Int Mf,Abca3,0.0,-0.1827,18.0101,794
+hurskainen_normoxia,Int Mf,Lamp3,0.0,-0.2069,3.0227,794
+hurskainen_normoxia,Int Mf,Epcam,0.0,-0.3548,4.9118,794
+hurskainen_normoxia,Int Mf,H2-Aa,0.0015,3.3231,29.9748,794
+hurskainen_normoxia,Int Mf,H2-Ab1,0.0015,3.6257,30.3526,794
+hurskainen_normoxia,Lymph,Slc34a2,0.0,-0.2154,7.5676,185
+hurskainen_normoxia,Lymph,Sftpc,0.001,-0.2098,92.4324,185
+hurskainen_normoxia,Lymph,Abca3,0.0001,0.1597,35.1351,185
+hurskainen_normoxia,Lymph,Lamp3,0.0,-0.223,3.2432,185
+hurskainen_normoxia,Lymph,Epcam,0.0,-0.4164,3.7838,185
+hurskainen_normoxia,Lymph,H2-Aa,0.0,-0.3164,3.2432,185
+hurskainen_normoxia,Lymph,H2-Ab1,0.0,-0.2906,8.1081,185
+hurskainen_normoxia,Mast Ba2,Slc34a2,0.0,-0.1849,9.2593,108
+hurskainen_normoxia,Mast Ba2,Sftpc,0.0015,-0.1988,94.4444,108
+hurskainen_normoxia,Mast Ba2,Abca3,0.0,-0.3077,8.3333,108
+hurskainen_normoxia,Mast Ba2,Lamp3,0.0,-0.1579,3.7037,108
+hurskainen_normoxia,Mast Ba2,Epcam,0.0,-0.3955,2.7778,108
+hurskainen_normoxia,Mast Ba2,H2-Aa,0.0,-0.3348,1.8519,108
+hurskainen_normoxia,Mast Ba2,H2-Ab1,0.0,-0.3228,2.7778,108
+hurskainen_normoxia,Mesothelial,Slc34a2,0.0,-0.1924,21.2928,263
+hurskainen_normoxia,Mesothelial,Sftpc,0.002,-0.1855,97.7186,263
+hurskainen_normoxia,Mesothelial,Abca3,0.0,-0.1628,31.9392,263
+hurskainen_normoxia,Mesothelial,Lamp3,0.0,-0.2035,3.8023,263
+hurskainen_normoxia,Mesothelial,Epcam,0.0,-0.4313,6.0837,263
+hurskainen_normoxia,Mesothelial,H2-Aa,0.0,-0.3341,4.5627,263
+hurskainen_normoxia,Mesothelial,H2-Ab1,0.0,-0.3169,7.9848,263
+hurskainen_normoxia,Mono,Slc34a2,0.0,-0.2176,5.8597,1297
+hurskainen_normoxia,Mono,Sftpc,0.001,-0.2081,94.2174,1297
+hurskainen_normoxia,Mono,Abca3,0.0001,-0.0492,19.6608,1297
+hurskainen_normoxia,Mono,Lamp3,0.0,-0.2189,1.4649,1297
+hurskainen_normoxia,Mono,Epcam,0.0,-0.4209,1.6962,1297
+hurskainen_normoxia,Mono,H2-Aa,0.0,-0.2656,4.1635,1297
+hurskainen_normoxia,Mono,H2-Ab1,0.0,-0.2512,4.7803,1297
+hurskainen_normoxia,Myofibroblast,Slc34a2,0.0,-0.2003,9.8214,224
+hurskainen_normoxia,Myofibroblast,Sftpc,0.0009,-0.211,91.0714,224
+hurskainen_normoxia,Myofibroblast,Abca3,0.0,-0.2771,12.5,224
+hurskainen_normoxia,Myofibroblast,Lamp3,0.0,-0.1829,4.9107,224
+hurskainen_normoxia,Myofibroblast,Epcam,0.0,-0.4426,2.2321,224
+hurskainen_normoxia,Myofibroblast,H2-Aa,0.0,-0.3258,3.125,224
+hurskainen_normoxia,Myofibroblast,H2-Ab1,0.0,-0.3229,1.7857,224
+hurskainen_normoxia,NK cell,Slc34a2,0.0,-0.2127,6.25,176
+hurskainen_normoxia,NK cell,Sftpc,0.0011,-0.2075,90.3409,176
+hurskainen_normoxia,NK cell,Abca3,0.0,-0.4324,1.7045,176
+hurskainen_normoxia,NK cell,Lamp3,0.0,-0.2146,2.8409,176
+hurskainen_normoxia,NK cell,Epcam,0.0,-0.4168,2.2727,176
+hurskainen_normoxia,NK cell,H2-Aa,0.0,-0.2915,5.6818,176
+hurskainen_normoxia,NK cell,H2-Ab1,0.0,-0.3047,3.4091,176
+hurskainen_normoxia,Neut 1,Slc34a2,0.0,-0.1799,6.308,1078
+hurskainen_normoxia,Neut 1,Sftpc,0.0024,-0.1773,88.7755,1078
+hurskainen_normoxia,Neut 1,Abca3,0.0,-0.2102,4.731,1078
+hurskainen_normoxia,Neut 1,Lamp3,0.0,-0.1802,1.3915,1078
+hurskainen_normoxia,Neut 1,Epcam,0.0,-0.4454,0.5566,1078
+hurskainen_normoxia,Neut 1,H2-Aa,0.0,-0.3158,1.7625,1078
+hurskainen_normoxia,Neut 1,H2-Ab1,0.0,-0.3076,1.7625,1078
+hurskainen_normoxia,Neut 2,Slc34a2,0.0,-0.2193,7.7586,116
+hurskainen_normoxia,Neut 2,Sftpc,0.0008,-0.2129,93.1034,116
+hurskainen_normoxia,Neut 2,Abca3,0.0,-0.347,7.7586,116
+hurskainen_normoxia,Neut 2,Lamp3,0.0,-0.2517,0.0,116
+hurskainen_normoxia,Neut 2,Epcam,0.0,-0.4551,0.8621,116
+hurskainen_normoxia,Neut 2,H2-Aa,0.0,-0.3413,1.7241,116
+hurskainen_normoxia,Neut 2,H2-Ab1,0.0,-0.3241,2.5862,116
+hurskainen_normoxia,Pericyte 1,Slc34a2,0.0,-0.2148,7.1038,732
+hurskainen_normoxia,Pericyte 1,Sftpc,0.001,-0.2082,93.4426,732
+hurskainen_normoxia,Pericyte 1,Abca3,0.0,-0.3684,6.1475,732
+hurskainen_normoxia,Pericyte 1,Lamp3,0.0,-0.2226,2.1858,732
+hurskainen_normoxia,Pericyte 1,Epcam,0.0,-0.4495,2.0492,732
+hurskainen_normoxia,Pericyte 1,H2-Aa,0.0,-0.3273,3.6885,732
+hurskainen_normoxia,Pericyte 1,H2-Ab1,0.0,-0.3192,3.0055,732
+hurskainen_normoxia,Pericyte 2,Slc34a2,0.0,-0.2037,7.5036,693
+hurskainen_normoxia,Pericyte 2,Sftpc,0.0014,-0.201,94.8052,693
+hurskainen_normoxia,Pericyte 2,Abca3,0.0,-0.3855,3.4632,693
+hurskainen_normoxia,Pericyte 2,Lamp3,0.0,-0.1889,2.3088,693
+hurskainen_normoxia,Pericyte 2,Epcam,0.0,-0.4566,1.2987,693
+hurskainen_normoxia,Pericyte 2,H2-Aa,0.0,-0.3176,3.1746,693
+hurskainen_normoxia,Pericyte 2,H2-Ab1,0.0,-0.3206,2.0202,693
+hurskainen_normoxia,SMC,Slc34a2,0.0,-0.2143,8.2012,3280
+hurskainen_normoxia,SMC,Sftpc,0.0009,-0.2117,93.3537,3280
+hurskainen_normoxia,SMC,Abca3,0.0,-0.389,4.2378,3280
+hurskainen_normoxia,SMC,Lamp3,0.0,-0.2198,2.0732,3280
+hurskainen_normoxia,SMC,Epcam,0.0,-0.4546,1.4329,3280
+hurskainen_normoxia,SMC,H2-Aa,0.0,-0.3309,2.8659,3280
+hurskainen_normoxia,SMC,H2-Ab1,0.0,-0.3149,2.8659,3280
+hurskainen_normoxia,Vein,Slc34a2,0.0,-0.2135,9.8315,356
+hurskainen_normoxia,Vein,Sftpc,0.0009,-0.2117,92.1348,356
+hurskainen_normoxia,Vein,Abca3,0.0,-0.2005,19.382,356
+hurskainen_normoxia,Vein,Lamp3,0.0,-0.2226,2.2472,356
+hurskainen_normoxia,Vein,Epcam,0.0,-0.4424,1.4045,356
+hurskainen_normoxia,Vein,H2-Aa,0.0,-0.3092,3.6517,356
+hurskainen_normoxia,Vein,H2-Ab1,0.0,-0.2785,7.3034,356

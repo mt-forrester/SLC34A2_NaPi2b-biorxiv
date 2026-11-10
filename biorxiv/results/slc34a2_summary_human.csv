@@ -1,0 +1,5 @@
+key,species,title,auroc,tau,log2fc_ct,pct_at2,pct_rest,rank_auroc,rank_log2fc,n_cells,n_cell_types,n_at2,n_surface,n_log2_pool
+hlca,human,"HLCA core (Sikkema 2023), lung parenchyma — healthy",0.9715,0.9377,6.93,97.223,8.7034,1,6.0,333468,58,60424,2217,217
+tsapiens,human,Tabula Sapiens lung (2022) — healthy,0.972,0.9513,6.1627,98.7062,23.5913,2,14.0,65847,34,11594,2652,553
+krasnow,human,Travaglini/Krasnow (2020) — healthy,0.9709,0.9442,8.4704,98.2433,9.1869,1,6.0,60993,46,3814,2208,227
+bpd,human,Bronchopulmonary dysplasia + control,0.8085,0.9465,7.4112,71.1556,10.8241,7,17.0,255204,39,88298,2473,171
